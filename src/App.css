@@ -23,6 +23,7 @@
   font-size: calc(10px + 2vmin);
   font-family: 'Brush Script MT', cursive;
   color: black;
+  width: 50%;
 }
 
 .App-link {
