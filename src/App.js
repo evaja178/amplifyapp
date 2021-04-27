@@ -17,7 +17,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.google.com/maps/@52.2185853,0.1458061,19z"
+          href="https://www.google.com/maps/place/2120+Water+St,+Chesterton,+Cambridge+CB4+1XZ/@52.217951,0.1449317,18z/data=!4m5!3m4!1s0x47d87058db12df2f:0x6c8dc158c741fdd8!8m2!3d52.2186!4d0.146969"
           target="_blank"
           rel="noopener noreferrer"
         >
