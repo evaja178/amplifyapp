@@ -10,9 +10,9 @@
   pointer-events: none;
   position: absolute;
   width: 320px;
-  height: 200px;
-  top: 60px;
-  left: -10px;
+  height: 100px;
+  top: 10px;
+  left: -5px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
