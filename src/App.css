@@ -11,8 +11,8 @@
   position: absolute;
   width: 320px;
   height: 100px;
-  top: 10px;
-  left: -5px;
+  top: -10px;
+  left: -3px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
