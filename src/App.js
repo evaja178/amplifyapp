@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We are absolutely delighted to announce to you that you have won an all inclusive stay at our fabulous, very well known private resort The Royals of Cam. Your stay has been booked from 11th to 13th of May and all you need to do is to show up. We will take care of everything else. 
+          We are absolutely delighted to announce to you that you have won all inclusive stay at our fabulous, very well known private resort The Royals of Cam. Your stay has been booked from 11th to 13th of May and all you need to do is to show up. We will take care of everything else. 
 
           Please, contact us on 07871453675 to claim your prize and to arrange the details of your stay.
 
