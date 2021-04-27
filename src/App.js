@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> edited and reloaded
+          Congratulations!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.google.com/maps/@52.2185853,0.1458061,19z"
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is updated text
+          Location
         </a>
       </header>
     </div>
