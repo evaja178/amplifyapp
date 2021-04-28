@@ -14,7 +14,7 @@ function App() {
 
           Please, contact us on 07871453675 to claim your prize and to arrange the details of your stay. 
 
-          We can’t wait for your visit! 
+          We can’t wait for your visit!!!!! 
 
         </p2>
         <a
