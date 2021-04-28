@@ -10,10 +10,9 @@
   height: 10vmin;
   pointer-events: none;
   position: absolute;
-  width: 320px;
-  height: 100px;
-  left: -10px;
-  bottom: 0px;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   
 }
 
